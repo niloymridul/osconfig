@@ -3,7 +3,7 @@
 </p>
 
 <h1> osTicket - Set-Up Configuration & Real Life Ticketing Scenarios</h1>
-Welcome to the osTicket seccond tutorial. This part of the tutorial will be detailing the post setup of osTicket and usage of osTicket when used in real life scenarios<br />
+Welcome to the osTicket second tutorial. This part of the tutorial will be detailing the post setup of osTicket and usage of osTicket when used in real-life scenarios.<br />
 
 <h2>Environments & Softwares Used</h2>
 
